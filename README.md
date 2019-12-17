@@ -1,4 +1,4 @@
-# Bakery Project
+# Project
 ##### By Name
 ###### Created 19 December, 2019
 
