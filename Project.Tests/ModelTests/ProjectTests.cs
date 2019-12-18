@@ -1,6 +1,6 @@
 using System;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-using AnagramCheck.Models;
+using Project.Models;
 using System.Collections.Generic;
 
 namespace Project.Tests
